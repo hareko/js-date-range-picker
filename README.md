@@ -40,6 +40,6 @@ The following files are included:
 6. *example.php*  - html/css/js shell for functionality demonstration;
 7. *readme.md*    - the file you are reading.
 
-The *Date Range Picker* is implemented in vRegistry solution (see [vregistrator.com]).
+The *Date Range Picker* is implemented in vRegistry solution (see [vregistry.com]).
 
-  [vregistrator.com]: http://vregistrator.com/hlp/en
+  [vregistry.com]: http://vregistry.com/hlp/en
