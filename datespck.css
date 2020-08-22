@@ -94,6 +94,12 @@ table {
 td {
   vertical-align: top;
 }
+td input{
+  margin-right: 8px;
+}
+td img {
+ width: 22px; 
+}
 .change {
   background-color: #eeeeee;
   border: 1px solid silver;
