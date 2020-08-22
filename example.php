@@ -52,7 +52,7 @@ $txts = array('tit' => 'Date Range Picker', /* texts */
     'wrd' => 'Wrong date',
     'dtr' => 'Date range');
 $txts['tnk'] = 'Thank You for trying ' . $txts['tit'];
-$ical = 'http://vallo.me/assets/calendar.png';
+$ical = 'calendar.png';
 
 function Opts($opts)
 /*
