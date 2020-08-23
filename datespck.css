@@ -84,27 +84,22 @@
   padding: 0;
   vertical-align: middle;
 }
-table {
+.change {
   font-size:0.9em;
-  border: 0;
   border-collapse:collapse;
   margin: auto;
   color: black;
-}
-td {
-  vertical-align: top;
-}
-td input{
-  margin-right: 8px;
-}
-td img {
- width: 22px; 
-}
-.change {
   background-color: #eeeeee;
   border: 1px solid silver;
 }
 .change td {
+  vertical-align: top;
   border: 0;
   padding: 0.3em;
+}
+.change td input{
+  margin-right: 8px;
+}
+.change td img {
+ width: 22px; 
 }
